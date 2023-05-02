@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
 *{
     font-family: "Roboto", sans-serif;
     margin: 0;
@@ -236,7 +236,7 @@ section{
 }
 
 /*responsive */
-@media (max-width: 991px) {
+  (max-width: 991px) {
     html{
         font-size: 55%;
     }
@@ -248,7 +248,7 @@ section{
     }
 }
 
-@media (max-width: 768px) {
+ (max-width: 768px) {
     #menubtn{
         display: initial;
     }
@@ -278,7 +278,7 @@ section{
         height: 45rem;
     }
 }
-@media (max-width: 450px) {
+ (max-width: 450px) {
     html{
         font-size: 50%;
     }
